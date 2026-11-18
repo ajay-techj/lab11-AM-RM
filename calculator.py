@@ -14,7 +14,7 @@ def subtract(a, b):
 
 def logarithm(a, b): #loga(b)# use math library/raise ValueError
     try:
-        return math.log(a, b)
+        return math.log(b, a)
     except:
         raise ValueError
 

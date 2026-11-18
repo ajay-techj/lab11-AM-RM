@@ -1,7 +1,24 @@
 import math
+def add(a, b): 
+    return a+b
 
-def add(a, b):
-    return a + b
+def subtract(a, b):
+    return a-b
+
+def multiply(a, b):
+    return a * b
+
+
+def logarithm(a, b): #loga(b)# use math library/raise ValueError
+    try:
+        return math.log(a, b)
+    except:
+        raise ValueError
+
+def exponent(a, b): 
+    return a**b
+
+
 
 def sub(a, b):
     return a - b

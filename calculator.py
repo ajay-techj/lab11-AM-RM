@@ -1,3 +1,6 @@
+# https://github.com/ajay-techj/lab11-AM-RM.git
+# Partner 1: Ajay Manam
+# Partner 2: Ryan Malkani
 import math
 def square_root(a):
     if a<0:

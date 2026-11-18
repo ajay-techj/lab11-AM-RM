@@ -1,4 +1,6 @@
-#https://github.com/ajay-techj/lab11-AM-RM.git
+# https://github.com/ajay-techj/lab11-AM-RM.git
+# Partner 1: Ajay Manam
+# Partner 2: Ryan Malkani
 import unittest
 from calculator import *
 
